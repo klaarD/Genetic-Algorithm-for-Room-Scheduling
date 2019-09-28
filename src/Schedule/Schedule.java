@@ -1,4 +1,4 @@
-package genetic_algorithm_for_timetables;
+package Schedule;
 
 public class Schedule {
   int[][] schedule;
