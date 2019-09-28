@@ -32,7 +32,7 @@ A solution is a mapping from rooms and time slots to courses.  That is, each roo
 
 
 ### To run the project from the command line type the following:
- > java -jar "schedule.jar" 'nBuildings' 'nRooms' 'nCourses' 'time_limit' 'alg_number' 'seed'
+ > java -jar "Schedule.jar" 'nBuildings' 'nRooms' 'nCourses' 'time_limit' 'alg_number' 'seed'
   
 ## Input
 #### nBuildings 
